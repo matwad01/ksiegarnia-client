@@ -1,0 +1,17 @@
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/src/main/java/mateusz/klient/MySpringApplicationClient.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/DeleteBookRequest.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/ServiceStatus.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/GetAllBooksRequest.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/src/main/java/mateusz/klient/BookClient.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/DeleteBookResponse.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/GetBookByIdRequest.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/package-info.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/AddBookResponse.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/src/main/java/mateusz/klient/WSConfigClient.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/UpdateBookResponse.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/ObjectFactory.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/AddBookRequest.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/BookInfo.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/GetAllBooksResponse.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/UpdateBookRequest.java
+/home/mateusz/Pulpit/SoapCRUDMySQL_Client/target/generated-sources/xjc/mateusz/klient/wsdl/GetBookByIdResponse.java
