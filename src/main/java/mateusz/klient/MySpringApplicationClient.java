@@ -22,7 +22,7 @@ public class MySpringApplicationClient {
 	CommandLineRunner lookup(BookClient bookClient) {
 		return args -> {
 			System.out.println(" Znajdź książkę poprzez ID ");
-			GetBookByIdResponse bookByIdResponse = bookClient.getBookById(10);
+			GetBookByIdResponse bookByIdResponse = bookClient.getBookById(2);
 			BookInfo bookInfo = bookByIdResponse.getBookInfo();
 		    System.out.println(bookInfo.getBookId() + ", " + bookInfo.getTytul()
 	        + ", "  + bookInfo.getAutor() + bookInfo.getRok() + ", " + bookInfo.getCena());
@@ -50,7 +50,7 @@ public class MySpringApplicationClient {
 			
 			System.out.println("Aktualizowanie książki");
 			bookInfo = new BookInfo();
-			bookInfo.setBookId(1);
+			bookInfo.setBookId(4);
 			bookInfo.setTytul("Java programing under the ground");
 			bookInfo.setAutor("Grażyna Tracz");
 			bookInfo.setRok(Integer.valueOf(2009));
